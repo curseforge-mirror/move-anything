@@ -1,4 +1,4 @@
-# MoveAnything Mirror
+# MoveAnything. Mirror
 
 This is a mirror of Resike's MoveAnything.
 
